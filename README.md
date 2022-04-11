@@ -23,6 +23,7 @@ public class Me extends Person {
 <a href="mailto:m_musienko@outlook.com"><img src="https://github.com/mypage-solutions/Images/blob/main/Images/icons/mail-fill.png" /></a>
 <a href="https://www.linkedin.com/in/mykhailo-musiienko-80849880/"><img src="https://github.com/mypage-solutions/Images/blob/main/Images/icons/linkedin-box-fill.png" /></a>
 <a href="https://t.me/Mykhailo_Musiienko"><img src="https://github.com/mypage-solutions/Images/blob/main/Images/icons/telegram-fill.png" /></a>
+<a href="https://gitlab.com/m_musiienko"><img src="https://github.com/mypage-solutions/Images/blob/main/Images/icons/gitlab-fill.png" /></a>
 </p>
                                                                                                                                               
                                                                                                                                               
